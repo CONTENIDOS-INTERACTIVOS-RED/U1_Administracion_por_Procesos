@@ -154,7 +154,7 @@ export default {
   .icon
     transition: all 0.25s ease-in-out
     // background-color: #083E61 !important
-    background-color: 4A665C !important
+    background-color: #4A665C !important
   &:hover
     .icon
       transform: scale(1.06)
