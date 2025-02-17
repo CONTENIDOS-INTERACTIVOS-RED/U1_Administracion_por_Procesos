@@ -118,26 +118,87 @@ export default {
   referencias: [
     {
       referencia:
-        'Ardaraz, M. (2002). Teoría de las tres dimensiones de desarrollo sostenible: . Ecosistemas, 11(2)',
+        'Martínez Martínez, A. & Cegarra Navarro, J. G. (2014). Gestión por procesos de negocio: organización horizontal. Ecobook - Editorial del Economista.',
       link:
-        'https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/614',
+        'https://elibro.net/es/ereader/tecnologicadeloriente/114309?page=84',
     },
     {
       referencia:
-        'Beltrán, D. J. (2002). La estrategia de desarrollo sostenible de la Unión Europea en el contexto global: de Río a Johannesburgo. ICE. Revista de Economía, (800).',
-      link: '',
+        'Angel Maldonado, J. (2012). Gestión de procesos (o gestión por procesos). B - EUMED.',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/51718?page=4',
+    },
+    {
+      referencia:
+        'Pardo Álvarez, J. M. (2017). Gestión por procesos y riesgo operacional. AENOR - Asociación Española de Normalización y Certificación.',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/53618?page=20',
+    },
+    {
+      referencia:
+        'Baca Urbina, G. (2015). Administración integral: hacia un enfoque de procesos. Grupo Editorial Patria.',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/39374?page=10',
+    },
+    {
+      referencia:
+        'Martínez Martínez, A. & Cegarra Navarro, J. G. (2014). Gestión por procesos de negocio: organización horizontal. Ecobook - Editorial del Economista.',
+      link:
+        'https://elibro.net/es/ereader/tecnologicadeloriente/114309?page=84',
+    },
+    {
+      referencia:
+        'Angel Maldonado, J. (2012). Gestión de procesos (o gestión por procesos). B - EUMED.',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/51718?page=4',
     },
   ],
   glosario: [
     {
-      termino: 'Bioética',
+      termino: 'Cliente interno',
       significado:
-        'disciplina que estudia las implicaciones éticas, sociales y legales de los avances biológicos y médicos, buscando garantizar que las decisiones en estos campos respeten la dignidad humana, los derechos fundamentales y la justicia social.',
+        'Persona, área o proceso dentro de una organización que recibe el resultado (producto o servicio) de un proceso para transformarlo o utilizarlo en el desarrollo de otro.',
     },
     {
-      termino: '<em>Design Thinking</em>',
+      termino: 'Cliente externo',
       significado:
-        'método de diseño centrado en el usuario que se basa en la comprensión de las necesidades y expectativas de los clientes, para crear soluciones innovadoras y efectivas.',
+        'Persona o entidad fuera de la organización que recibe el producto o servicio final de un proceso, satisfaciendo sus necesidades o expectativas.',
+    },
+    {
+      termino: 'Gestión por procesos',
+      significado:
+        'Enfoque organizacional que identifica, gestiona y mejora los procesos de manera continua, priorizando la eficiencia, efectividad y la generación de valor para el cliente.',
+    },
+    {
+      termino: 'Mejora continua',
+      significado:
+        'Principio que promueve la evaluación y optimización constante de los procesos, buscando mayor eficiencia, reducción de errores y adaptación a los cambios del entorno.',
+    },
+    {
+      termino: 'Proceso',
+      significado:
+        'Conjunto de actividades y recursos interrelacionados que transforman entradas (inputs) en salidas (outputs), generando valor para un cliente interno o externo.',
+    },
+    {
+      termino: 'Proceso clave',
+      significado:
+        'Actividades esenciales para el cumplimiento de la misión organizacional, directamente relacionadas con la creación de valor para el cliente.',
+    },
+    {
+      termino: 'Proceso interfuncional',
+      significado:
+        'Proceso que atraviesa varias áreas o departamentos de la organización, promoviendo la colaboración para alcanzar un objetivo común.',
+    },
+    {
+      termino: 'Proceso interno',
+      significado:
+        'Actividades realizadas exclusivamente dentro de la organización para satisfacer necesidades internas, aunque no siempre generan valor directo.',
+    },
+    {
+      termino: 'Subproceso',
+      significado:
+        'Parte más pequeña y definida de un proceso, que utiliza recursos para transformarlos o agregarles valor, contribuyendo al logro de un objetivo mayor.',
+    },
+    {
+      termino: 'Valor',
+      significado:
+        'Resultado que un proceso o subproceso aporta al cliente, ya sea en forma de producto, servicio o beneficio, cumpliendo sus expectativas y necesidades.',
     },
   ],
 }
